@@ -1,0 +1,1 @@
+<h1>user is {{$name }}</h1>
